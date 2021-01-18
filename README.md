@@ -6,7 +6,7 @@
 _Due to some technical issue we are providing links on GITHUB_
 
 ## FOSS Lab 
-> Commands: [link][/FOSS_G3_LAB/README.md]
+> Commands: [link](/FOSS_G3_LAB/README.md)
 
 ## Videos Playlist Link
 
