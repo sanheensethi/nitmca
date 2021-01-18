@@ -1,10 +1,11 @@
 # Foss LAB
 
-In this files **FOSS lab work** is given for *ubantu*
+In this files FOSS lab work is given for ubantu
 
 Here there are commands by which we are getting errors,you can also try them and do best practice for lab
 
 > Date : 16-January-2021
+
 
 ```bash
 who -a
@@ -58,7 +59,9 @@ history >> filename
 date >> filename
 history >> filename
 ```
-> Date : 18-January-2021
+
+>Date : 18-January-2021
+
 
 ```bash
 touch filename
