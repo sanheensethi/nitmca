@@ -1,0 +1,51 @@
+01/17/21
+    1  apt list
+    2  touch uabntu
+    3  echo "Empty file"
+    4  touch file1 file2 file3
+    5  touch -a
+    6  touch -A
+    7  touch -a uabntu
+    8  cat uabnty
+    9  cat uabntu
+   10  clear
+   11  echo "access ko change krne mae aata hai -a"
+   12  clear
+   13  echo "Smj ni aaya"
+   14  clear
+   15  cat uabntu
+   16  cat >uabntu
+   17  clear
+   18  cat uabntu
+   19  touch -a uabntu
+   20  touch -c uabntu
+   21  touch -c ubantu
+   22  mkdir live1 live2
+   23  ls
+   24  cd live1
+   25  touch a1 .maata .catum
+   26  ls
+   27  ls -a
+   28  ls -al
+   29  mkdir .ll
+   30  ls
+   31  ls -a
+   32  cd .ll
+   33  ls
+   34  cd ..
+   35  ls
+   36  ls -a
+   37  rmdir .ll
+   38  ls
+   39  ls -a
+   40  rm .catum
+   41  cd ..
+   42  ls
+   43  clear
+   44  date +%D > hist
+   45  history > hist
+   46  ls
+   47  cat his
+   48  cat hist
+   49  date +%D > hist
+   50  history >> hist

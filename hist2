@@ -1,0 +1,61 @@
+    1  apt list
+    2  touch uabntu
+    3  echo "Empty file"
+    4  touch file1 file2 file3
+    5  touch -a
+    6  touch -A
+    7  touch -a uabntu
+    8  cat uabnty
+    9  cat uabntu
+   10  clear
+   11  echo "access ko change krne mae aata hai -a"
+   12  clear
+   13  echo "Smj ni aaya"
+   14  clear
+   15  cat uabntu
+   16  cat >uabntu
+   17  clear
+   18  cat uabntu
+   19  touch -a uabntu
+   20  touch -c uabntu
+   21  touch -c ubantu
+   22  sudo apt-get install git
+   23  git config --global user.name "Sanheen Sethi"
+   24  git config --global user.email "sanheensethi37659@gmail.com"
+   25  ls
+   26  git --help
+   27  git clone https://github.com/sanheensethi/nitmca.git
+   28  clear
+   29  ls
+   30  rm aaj
+   31  rm file1 file2 file3
+   32  ls
+   33  rm uabntu
+   34  ls
+   35  rm filesname
+   36  ls
+   37  rm niyaad
+   38  ls
+   39  clear
+   40  ls -a
+   41  rm nitmca
+   42  rm live1
+   43  rmdir live1
+   44  rm -r live1
+   45  ls
+   46  clear
+   47  ls
+   48  rmidir live2
+   49  ls
+   50  mkdir --help
+   51  mkdir -v liveDaily
+   52  clear
+   53  mkdir -m a=rw- namedir
+   54  ls -l
+   55  echo "green because only to read and write"
+   56  ls
+   57  cd nitmca
+   58  clear
+   59  sudo apt install gcc
+   60  clear
+   61  history > hist2

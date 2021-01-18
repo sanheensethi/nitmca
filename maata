@@ -1,0 +1,136 @@
+    1  apt list
+    2  touch uabntu
+    3  echo "Empty file"
+    4  touch file1 file2 file3
+    5  touch -a
+    6  touch -A
+    7  touch -a uabntu
+    8  cat uabnty
+    9  cat uabntu
+   10  clear
+   11  echo "access ko change krne mae aata hai -a"
+   12  clear
+   13  echo "Smj ni aaya"
+   14  clear
+   15  cat uabntu
+   16  cat >uabntu
+   17  clear
+   18  cat uabntu
+   19  touch -a uabntu
+   20  touch -c uabntu
+   21  touch -c ubantu
+   22  sudo apt-get install git
+   23  git config --global user.name "Sanheen Sethi"
+   24  git config --global user.email "sanheensethi37659@gmail.com"
+   25  ls
+   26  git --help
+   27  git clone https://github.com/sanheensethi/nitmca.git
+   28  clear
+   29  ls
+   30  rm aaj
+   31  rm file1 file2 file3
+   32  ls
+   33  rm uabntu
+   34  ls
+   35  rm filesname
+   36  ls
+   37  rm niyaad
+   38  ls
+   39  clear
+   40  ls -a
+   41  rm nitmca
+   42  rm live1
+   43  rmdir live1
+   44  rm -r live1
+   45  ls
+   46  clear
+   47  ls
+   48  rmidir live2
+   49  ls
+   50  mkdir --help
+   51  mkdir -v liveDaily
+   52  clear
+   53  mkdir -m a=rw- namedir
+   54  ls -l
+   55  echo "green because only to read and write"
+   56  ls
+   57  cd nitmca
+   58  clear
+   59  sudo apt install gcc
+   60  clear
+   61  history > hist2
+   62  ls
+   63  ls -l
+   64  echo "read write execute"
+   65  pwd
+   66  cd ..
+   67  clear
+   68  ls -d *
+   69  ls *
+   70  date >  hishis
+   71  ls
+   72  echo "rm-delete files"
+   73  echo "rmdir-delete folders"
+   74  rm Desktop/hishis
+   75  rm $/Desktop/hishis
+   76  rm ~/Desktop/hishis
+   77  cd ..
+   78  ls
+   79  ls Desktop
+   80  cd Desktop
+   81  cd ..
+   82  ls
+   83  clear
+   84  l
+   85  ls
+   86  clear
+   87  ls
+   88  mkdir Desktop/JJ
+   89  ls Dektop
+   90  ls Desktop
+   91  clear
+   92  ls Desktop
+   93  mkdir Desktop/JJ/II
+   94  ls
+   95  rmdir  Desktop/JJ
+   96  rmdir -p Desktop/JJ
+   97  rmdir --help
+   98  rmdir --ignore Desktop/JJ
+   99  ls
+  100  cd Desktop
+  101  ls
+  102  cd JJ
+  103  mkdir hji
+  104  ls
+  105  cd ..
+  106  rmdir -v JJ
+  107  ls
+  108  c;ear
+  109  clear
+  110  ls
+  111  cd ..
+  112  cd ~Desktop/
+  113  cd ~/Desktop
+  114  ls
+  115  rmdir namedir
+  116  ls
+  117  mkdir 123
+  118  rmdir 123
+  119  ls
+  120  clear
+  121  ls
+  122  cd JJ
+  123  ls
+  124  ls -d *
+  125  mkdir hji/kl
+  126  ls
+  127  ls -d *
+  128  cd hji
+  129  ls
+  130  cd ..
+  131  ls -d */
+  132  nect
+  133  ls
+  134  cd ..
+  135  ls
+  136  history > maata
