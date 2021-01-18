@@ -1,4 +1,4 @@
-# Recorded Lectures
+# Recorded Lectures and Foss LAB
 
 **Daily Recorded Lectures** are uploaded in **Tech Knocks channel**, 
 
