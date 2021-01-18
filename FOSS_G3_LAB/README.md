@@ -5,6 +5,7 @@ In this files **FOSS lab work** is given for *ubantu*
 Here there are commands by which we are getting errors,you can also try them and do best practice for lab
 
 > Date : 16-January-2021
+
 ```bash
 who -a
 who -m -H
